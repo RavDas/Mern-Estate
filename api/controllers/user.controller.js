@@ -1,7 +1,7 @@
 export const test = (req, res) => {
     res.json(
         {
-            message : "Fuck",
+            message : "Test it Right",
         }
     );
 }; 
